@@ -1,10 +1,11 @@
 # Практична робота 5
 Виконав Бурмака Ігор
-#include <stdio.h>
+
 
 
 # Код
 ```c
+#include <stdio.h>
 int main() {
     int n;
     printf ("Length of the sequence:");
